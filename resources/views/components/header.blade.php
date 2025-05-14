@@ -9,6 +9,7 @@
             <img class="h-8 w-auto" src="{{ asset('images/logo.png') }}" alt="">
             </a>
         </div>
+        
         <a href="/admin">
             Admin
         </a>
