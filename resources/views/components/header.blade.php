@@ -8,8 +8,7 @@
             <span class="sr-only">Netstudio</span>
             <img class="h-8 w-auto" src="{{ asset('images/logo.png') }}" alt="">
             </a>
-        </div>
-        
+        </div>        
         <a href="/admin">
             Admin
         </a>
